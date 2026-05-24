@@ -8,6 +8,10 @@
 
 # 手機：Obsidian + GitSync
 
+Chrome : Obsidian Web Clipper
 
-
+初始化設定:
 https://www.bilibili.com/video/BV1QTX2BUEBh/?vd_source=70a878989279c5dedeae00da864ea4f8
+
+Kapathy:
+https://www.youtube.com/watch?v=FdSO1Yhr76I
