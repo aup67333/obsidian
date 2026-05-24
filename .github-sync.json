@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "remote": "https://github.com/aup67333/Obsidian",
+  "branch": "master",
+  "sync": {
+    "autoIntervalMin": 30,
+    "ignorePatterns": [
+      ".DS_Store",
+      ".trash/**",
+      ".obsidian/**"
+    ]
+  },
+  "ai": {
+    "enabled": true,
+    "silentMode": false,
+    "silentMinConfidence": 3,
+    "deepseekModel": "deepseek-v4-flash",
+    "geminiModel": "gemini-1.5-flash",
+    "sendFilePaths": true,
+    "sendGitMetadata": true,
+    "sendSurroundingContext": true,
+    "excludePatterns": [
+      ".env",
+      ".env.*",
+      "secrets/**",
+      "*.private.md",
+      "private/**",
+      "**/credentials.*"
+    ]
+  },
+  "submodules": []
+}
